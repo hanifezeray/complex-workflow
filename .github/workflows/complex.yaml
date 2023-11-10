@@ -1,8 +1,6 @@
 name: challenge
 
-on: 
- push: 
-    branches: ["master"]
+on: push
 
 jobs:
   ubuntu: 
